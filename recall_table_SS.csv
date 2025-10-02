@@ -1,0 +1,12 @@
+Search Group,Number of Papers Retrieved,"Recall 
+(out of 21)","Recall 
+(non-preprints)","Recall
+ (preprints)"
+LLM Terms,3000,0.00%,0.00%,0.00%
+Survey Terms,3000,14.29%,18.18%,10.00%
+Simulation Terms,3000,0.00%,0.00%,0.00%
+LLM + Survey Terms,3000,28.57%,27.27%,30.00%
+Survey + Simulation Terms,3000,19.05%,18.18%,20.00%
+LLM + Simulation Terms,3000,23.81%,27.27%,20.00%
+All Terms,2853,57.14%,54.55%,60.00%
+,,,,100.00%

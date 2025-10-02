@@ -1,0 +1,4 @@
+.env
+
+# ignore all files in the data directory
+data/*
