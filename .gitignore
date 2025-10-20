@@ -2,5 +2,6 @@
 
 # ignore all files in the data directory
 data/*
+archive/
 results_wos
 results_ss
